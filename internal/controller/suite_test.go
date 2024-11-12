@@ -33,7 +33,7 @@ import (
 	logf "sigs.k8s.io/controller-runtime/pkg/log"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	viewv1 "github.com/umechanY/test-controller/api/v1"
+	viewv1 "github.com/umechanY/markdown-view/api/v1"
 	// +kubebuilder:scaffold:imports
 )
 
