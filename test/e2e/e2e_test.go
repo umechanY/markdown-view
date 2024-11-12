@@ -24,7 +24,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/umechanY/test-controller/test/utils"
+	"github.com/umechanY/markdown-view/test/utils"
 )
 
 const namespace = "markdown-view-system"
