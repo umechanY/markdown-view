@@ -1,4 +1,4 @@
-module github.com/umechanY/test-controller
+module github.com/umechanY/markdown-view
 
 go 1.22.0
 
